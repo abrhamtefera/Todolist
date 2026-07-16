@@ -1,0 +1,6 @@
+{
+  "name": "Modern To-Do List",
+  "description": "A modern, responsive, and production-ready To-Do list with a Bento Grid style dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
